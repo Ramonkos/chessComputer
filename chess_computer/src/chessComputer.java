@@ -561,4 +561,5 @@ public class chessComputer {
     System.out.print(field[6][7]);
     System.out.println(field[7][7]);
   }
+  // end
 }
